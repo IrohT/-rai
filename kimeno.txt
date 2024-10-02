@@ -1,0 +1,71 @@
+Feladat: Diákjegyek Kezelése
+Leírás: Készíts egy programot, amely diákok neveit és jegyeit kezeli! A program a következő funkciókat fogja ellátni:
+
+1. Diákok hozzáadása:
+
+-Kérdezd meg a felhasználót, hogy hány diákot szeretne hozzáadni.
+
+-Használj for ciklust, hogy a megadott számú diák nevét és jegyét bekérd.
+
+-Tárold a neveket és a jegyeket egy listában, ahol minden diákot egy tuple-ként tárolsz (név, jegy).
+
+2. Diákok kiírása:
+
+-Kérdezd meg a felhasználót, hogy szeretné-e megtekinteni az összes diákot.
+
+-Ha igennel válaszol, írd ki a diákok nevét és jegyeit egy szépen formázott táblázatban.
+
+3. Átlagos jegy számítása:
+
+-Kérdezd meg a felhasználót, hogy szeretné-e tudni az összes diák átlagos jegyét.
+
+-Használj for ciklust az átlagos jegy kiszámításához, és írd ki az eredményt.
+
+4. Legmagasabb és legalacsonyabb jegy:
+
+-Kérdezd meg a felhasználót, hogy szeretné-e tudni a legmagasabb és legalacsonyabb jegyet.
+
+-Használj ciklust a legnagyobb és legkisebb jegy keresésére, majd írd ki ezeket az értékeket.
+
+5. Diák eltávolítása:
+
+-Kérdezd meg a felhasználót, hogy szeretne-e eltávolítani egy diákot.
+
+-Ha igennel válaszol, kérd a diák nevét, és távolítsd el az adott diákot a listából, ha létezik.
+Példa:
+
+-----------------------------------------------------------------------
+
+Hány diákot szeretnél hozzáadni? 3
+Add meg az 1. diák nevét: Anna
+Add meg Anna jegyét: 4
+Add meg a 2. diák nevét: Péter
+Add meg Péter jegyét: 5
+Add meg a 3. diák nevét: Zsófia
+Add meg Zsófia jegyét: 3
+
+Szeretnéd látni az összes diákot? (igen/nem): igen
+Diákok:
+Név       | Jegy
+----------------
+Anna      | 4
+Péter     | 5
+Zsófia    | 3
+
+Szeretnéd tudni az átlagos jegyet? (igen/nem): igen
+Az átlagos jegy: 4.0
+
+Szeretnéd tudni a legmagasabb és legalacsonyabb jegyet? (igen/nem): igen
+Legmagasabb jegy: 5
+Legalacsonyabb jegy: 3
+
+Szeretnél eltávolítani egy diákot? (igen/nem): igen
+Add meg a diák nevét, akit el szeretnél távolítani: Péter
+Péter eltávolítva.
+
+Szeretnéd látni az összes diákot? (igen/nem): igen
+Diákok:
+Név       | Jegy
+----------------
+Anna      | 4
+Zsófia    | 3

@@ -1,0 +1,32 @@
+!!!!!!!!!!!!!!!!!!!!!!A feladatokat funkciókban valósítsd meg!!!!!!!!!!!!!!!!!
+
+
+1. for Ciklus Feladatok
+1.1 Hozz létre egy listát a kedvenc filmjeidről, és írd ki az összes filmet egy for ciklus segítségével!
+
+1.2 Készíts egy programot, amely egy lista elemein végigiterálva megszámolja, hány páros szám található benne!
+
+1.3 Írj egy programot, amely 1-től 100-ig terjedő számokat kiír, de a páros számokat az „Páros” felirattal, a páratlan számokat pedig az „Páratlan” felirattal jelöli!
+
+1.4 Készíts egy listát a 10-20-ig terjedő számok négyzeteiről, és írd ki a listát!
+
+2. while Ciklus Feladatok
+2.1 Készíts egy programot, amely 0-tól 10-ig számol, és minden egyes szám után kiírja, hogy "Ez a szám: [szám]".
+
+2.2 Írj egy programot, amely egy felhasználótól kér be számokat, amíg a felhasználó nem ír be egy negatív számot. Minden beírt számot írd ki, és végül írd ki az összes beírt szám összegét!
+
+2.3 Készíts egy programot, amely addig kérdezi meg a felhasználótól, hogy szeretne-e folytatni (igen/nem), amíg a felhasználó „igen”-t nem mond. Ha a felhasználó „nem”-et mond, a program írja ki a „Viszlát!” üzenetet és zárul be!
+
+3. Ciklusok Kombinálása
+3.1 Írj egy programot, amely a 1-től 5-ig terjedő számok faktoriálisát számolja ki! Használj for ciklust a faktoriális számításához.
+
+3.2 Készíts egy programot, amely egy 3x3-as mátrixot (lista lista) hoz létre véletlenszerű számokkal (0-9 között), majd egy for ciklus segítségével írd ki a mátrixot szépen formázva!
+
+3.3 Írj egy programot, amely megfordítja egy lista elemeit. Használj for vagy while ciklust, és ne használj beépített Python funkciót!
+
+3.4 Készíts egy programot, amely egy szótárt használva összeszedi a különböző gyümölcsök és azok árainak listáját. Írj egy for ciklust, amely kiírja a gyümölcsök nevét és áraikat, és egy while ciklust, amely megkérdezi a felhasználót, hogy szeretne-e hozzáadni új gyümölcsöt az árlistához.
+
+4. Kombinált Feladatok
+4.1 Készíts egy programot, amely megkérdezi a felhasználótól, hány számot szeretne beírni. A program ezután a megadott számú bemeneti számot összegzi és átlagolja, majd kiírja az átlagot.
+
+4.2 Írj egy programot, amely a Fibonacci-sorozat első 10 elemét írja ki while ciklus segítségével!

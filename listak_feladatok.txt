@@ -1,0 +1,35 @@
+
+1. Lista (List)
+Feladat: Készíts egy programot, amely a következő lépéseket végzi el:
+
+Hozz létre egy listát, amely 10 véletlenszerű számot tartalmaz (0 és 100 között)! (random)
+a) Írd ki a lista elemeit!
+b) Keresd meg a lista legnagyobb és legkisebb számát, és írd ki!
+c) Rendezze a listát növekvő sorrendbe, majd írd ki az eredményt!
+d) Hozz létre egy új listát, amely csak a páros számokat tartalmazza az eredeti listából!
+
+
+2. Halmaz (Set)
+
+Hozz létre két halmazt, amelyek különböző gyümölcsöket tartalmaznak!
+a) Írd ki a két halmazt!
+b) Keresd meg és írd ki a közös gyümölcsöket (metszet)!
+c) Keresd meg és írd ki azokat a gyümölcsöket, amelyek az első halmazban, de nem a másodikban (különbség)!
+d) Egyesítsd a két halmazt, és írd ki az egyesített halmazt!
+3. Tuple
+Feladat: Készíts egy programot, amely egy tuple-t kezel:
+
+Hozz létre egy tuple-t, amely különböző szavakat tartalmaz!
+a) Írd ki a tuple elemeit!
+b) Készíts egy új tuple-t, amely tartalmazza az első három és az utolsó két elemet az eredeti tuple-ból!
+c) Írd ki, hogy a tuple hány elemű!
+d) Hozz létre egy másik tuple-t, amely az első tuple minden második elemét tartalmazza!
+4. Szótár (Dictionary)
+Feladat: Készíts egy programot, amely egy szótárat kezel:
+
+Hozz létre egy szótárt, amely különböző tantárgyakat és azok átlagos jegyeit tartalmazza!
+a) Írd ki a szótár összes kulcsát és értékét!
+b) Frissítsd az egyik tantárgy átlagos jegyét!
+c) Adj hozzá egy új tantárgyat a szótárhoz!
+d) Keresd meg a legmagasabb átlagos jegyű tantárgyat, és írd ki a tantárgy nevét és az átlagát!
+e) Írd ki az összes tantárgyat, amelyeknek az átlagos jegye 4,5 felett van!
